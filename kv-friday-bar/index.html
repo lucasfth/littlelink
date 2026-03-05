@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>???</title>
+    <link rel="icon" type="image/x-icon" href="images/logo.ico">
+    <meta name="Lucas Hanson" content="Mini challenge for a Kraftvaerk Friday bar">
+    <title>Ghost Catcher</title>
     <style>
         body {
             margin: 0;
@@ -95,7 +97,7 @@
         moveGhost();
 
         // Move ghost periodically even if not tapped to draw attention
-        let autoMove = setInterval(moveGhost, 700);
+        let autoMove = setInterval(moveGhost, 500);
 
         ghost.addEventListener('touchstart', handleTap);
         ghost.addEventListener('click', handleTap);
