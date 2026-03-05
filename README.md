@@ -11,7 +11,7 @@ Small changes have been made to the original LittleLink project and also on how 
 
 - Relative links for social media buttons are used in `index.html`
 - Folders for each social media button have been added with its own `index.html` file.
-  This allows the use of URL custom redirects, for example through a service like [rdr.lucashanson.dk](https://rdr.lucashanson.dk), to easily share links to your social media profiles.
+  This allows the use of URL custom redirects, for example through a service like [links.lucashanson.dk](https://links.lucashanson.dk), to easily share links to your social media profiles.
   - `/gh` folder for GitHub
   - `/ig` folder for Instagram
   - `/yt` folder for YouTube
