@@ -16,6 +16,10 @@ Small changes have been made to the original LittleLink project and also on how 
   - `/ig` folder for Instagram
   - `/yt` folder for YouTube
   - `/littlelink` folder for the GitHub repository of this project
+  - `/btc` and `/bitcoin` folders both redirect to [Bitcoin donations](https://lucashanson.dk/bitcoin).
+    The homepage's **Bitcoin donations** button uses `/btc`. The donation page
+    lives on the portfolio site; this repository stores no wallet keys or
+    payment addresses.
 - Remove unused files
 - ObsidianUI-inspired monochrome link cards, matching the palette and typography on [lucashanson.dk](https://lucashanson.dk).
 - Patrick Hand headings and Space Mono body text, loaded from Google Fonts with system fallbacks.
