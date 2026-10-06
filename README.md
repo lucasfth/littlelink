@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="images/profile_pic.jpg" alt="Lucas Hanson" width="120" height="120" style="border-radius: 50%">
   <h1>Lucas Hanson · LittleLink</h1>
   <p>A clean starting point for my links, projects, and contact details.</p>
   <p>
