@@ -17,6 +17,7 @@
 - `/gh`, `/ig`, `/yt`, and `/li` are short redirects to my social profiles.
 - `/littlelink` points back to this repository.
 - `/btc` and `/bitcoin` point to the Bitcoin page on [lucashanson.dk](https://lucashanson.dk/bitcoin). No wallet keys or payment details are stored here.
+- `/nostr` points to Lucas's Nostr profile on [njump.me](https://njump.me/npub1rv5s9g5fk62eadufywu334u8732ssa8a9t5k93fdzdkrw529zz4qnrrhdm).
 - `/llm` points to [nocturne](https://lucashanson.dk/nocturne), the night-time LLM API paid in sats.
 
 ## Look and feel
