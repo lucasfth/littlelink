@@ -22,7 +22,7 @@
 
 ## Look and feel
 
-The landing and privacy pages use monochrome link cards, Patrick Hand headings, and Space Mono body text. The responsive layout includes visible keyboard focus, reduced-motion support, and automatic light/dark themes.
+The landing and privacy pages use monochrome link cards, Arial/Helvetica headings shared with the portfolio, and Space Mono body text. The responsive layout includes visible keyboard focus, reduced-motion support, and automatic light/dark themes.
 
 ## Preview locally
 

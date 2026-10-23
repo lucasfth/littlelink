@@ -3,7 +3,7 @@
 :root {
   font-size: 16px;
   color-scheme: dark;
-  --font-hand: "Patrick Hand", "Segoe Print", cursive;
+  --font-heading: Arial, Helvetica, sans-serif;
   --font-mono: "Space Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --background: #050505;
   --foreground: #fafafa;
@@ -104,7 +104,7 @@ body::after {
 .avatar--none { border-radius: 0; }
 
 h1, h2, h3 {
-  font-family: var(--font-hand);
+  font-family: var(--font-heading);
   font-weight: 400;
   line-height: 1.1;
   letter-spacing: -0.01em;
